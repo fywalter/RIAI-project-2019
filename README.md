@@ -1,4 +1,4 @@
-# RIAI 2019 Course Project
+# RIAI 2019 Course Project (Deepz Implementation, not final submission)
 
 
 
